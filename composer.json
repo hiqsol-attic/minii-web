@@ -29,7 +29,7 @@
         "psr-4": {
             "yii\\web\\": "src/web",
             "yii\\views\\": "src/views",
-            "yii\\filter\\": "src/filter"
+            "yii\\filters\\": "src/filters"
         }
     }
 }
