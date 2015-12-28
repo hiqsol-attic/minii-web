@@ -29,6 +29,7 @@
         "psr-4": {
             "yii\\web\\": "src/web",
             "yii\\views\\": "src/views",
+            "yii\\assets\\": "src/assets",
             "yii\\filters\\": "src/filters"
         }
     }
