@@ -1,8 +1,10 @@
 minii/web commits history
 -------------------------
 
-## Under development
+## 0.0.1 2016-02-20
 
+- Added basics
+    - ae4b36f 2016-02-20 rehideved (sol@hiqdev.com)
     - e2c41b5 2015-12-28 + assets (sol@hiqdev.com)
     - 6ee0870 2015-12-28 fixed typo (sol@hiqdev.com)
     - 7feb13e 2015-12-28 + filters to composer.json (sol@hiqdev.com)
