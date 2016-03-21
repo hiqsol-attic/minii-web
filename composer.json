@@ -1,6 +1,6 @@
 {
     "name": "minii/web",
-    "type": "library",
+    "type": "yii2-extension",
     "description": "minii web",
     "keywords": [
         "minii",
