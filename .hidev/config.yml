@@ -1,17 +1,17 @@
 github:
-    name:           hiqdev/minii-web
+    full_name:      hiqdev/minii-web
 
 package:
     type:           yii2-extension
     name:           web
-    src:            src/web
     title:          minii web
     keywords:       minii, web
     namespace:      yii\web
+    src:            src/web
     description:    |
         [minii](https://github.com/hiqdev/minii-core) is mini version of [Yii2](http://yiiframework.com/), supposed to be fully compatible.
 
-        This package provides yii\web.
+        This package provides `yii\web`.
 
 require:
     hiqdev/hidev-php:   "*"

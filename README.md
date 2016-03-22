@@ -10,7 +10,7 @@ minii web
 
 [minii](https://github.com/hiqdev/minii-core) is mini version of [Yii2](http://yiiframework.com/), supposed to be fully compatible.
 
-This package provides yii\web.
+This package provides `yii\web`.
 
 ## Installation
 

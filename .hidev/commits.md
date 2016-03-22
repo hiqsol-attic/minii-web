@@ -1,7 +1,7 @@
 minii/web commits history
 -------------------------
 
-## Under development
+## 0.0.2 2016-03-22
 
 - Changed composer type to `yii2-extension`
     - ace390a 2016-03-21 changed composer type to `yii2-extension` (sol@hiqdev.com)
