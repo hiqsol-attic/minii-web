@@ -23,7 +23,12 @@
         }
     ],
     "require": {
-        "minii/core": "*"
+        "minii/core": "*",
+        "minii/i18n": "*",
+        "minii/caching": "*",
+        "minii/widgets": "*",
+        "minii/helpers": "*",
+        "minii/validators": "*"
     },
     "autoload": {
         "psr-4": {
